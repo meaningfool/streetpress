@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But do not ignore these files
+!.gitignore
+!README.md
+!requirements.txt
+!streetpress_extract_entities.ipynb
+!streetpress_build_graph.ipynb
+!streetpress_graph_viz.ipynb
+!streetpress_extraction.png
+!streetpress_resolution.png
+
